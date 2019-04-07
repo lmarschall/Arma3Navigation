@@ -3,13 +3,13 @@ Project to implement different path finding algorithm in the military simulation
 
 At the moment there are three different files:
 
-createRoadMap
+## createRoadMap
 Initializes the nodes on the map and creates a file to establish a navigation map
 
-dijkstraNavigation
+## dijkstraNavigation
 Uses the Dijkstra Algorithm for pathfinfing
 
-astarNavigation
+## astarNavigation
 Uses the A Star Algorithm for pathfinfing
 
 Feel free to contact me on Steam, if any questions occur, the name is equivalent.
