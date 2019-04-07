@@ -12,6 +12,9 @@ Uses the Dijkstra Algorithm for pathfinfing
 ## astarNavigation
 Uses the A Star Algorithm for pathfinfing
 
+## status quo
+Right now, everythings pumped into the file createRoadMap, so you only need to execute this single file.
+
 Feel free to contact me on Steam, if any questions occur, the name is equivalent.
 
 Cheers,
